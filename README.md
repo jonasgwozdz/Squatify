@@ -16,3 +16,19 @@ Squatify is a tiny little tool designed for motion tracking and data logging dur
 
 ### Installation
 Clone the repository and run the main.py. it's that simple. You have to see it to believe it.
+
+##Usage
+
+Record or upload a squatting video, name it "VideoXX"( with a corresponding number) and put it into the Viedos directory.
+Run the motion tracking script: python main.py.
+Collect the output CSV files from the designated output folder.
+
+
+##Contributing
+please dont
+
+##License
+coming soom
+
+##Acknowledgments
+some code stolen from someone else, will link eventually.
