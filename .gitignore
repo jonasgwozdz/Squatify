@@ -1,4 +1,9 @@
+# System Files
+.DS_Store
+# Video files
 *.mp4
 *.MOV
 # Pycache Folder
 **/__pycache__/
+# Example Pipeline csv output
+*/pipeline/*/*.csv
