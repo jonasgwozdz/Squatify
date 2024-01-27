@@ -6,4 +6,4 @@
 # Pycache Folder
 **/__pycache__/
 # Example Pipeline csv output
-*/pipeline/*/*.csv
+**/pipeline/**/*.csv
