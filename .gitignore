@@ -8,3 +8,8 @@
 __pycache__
 # Example Pipeline csv output
 **/pipeline/**/*.csv
+# exclude some models
+data/models/old
+data/models/sequence-2f
+data/models/sequence-6f
+data/models/sequence-15f
